@@ -1,5 +1,2 @@
 # Wolfram
-# Wolfram
-# Wolfram
-# Wolfram
-# Wolfram
+Code repository for Mathematica-related work.
