@@ -1,2 +1,2 @@
 # Wolfram
-Code repository for Mathematica-related work.
+Wolfram (Mathematica) code for Sage Ridge School robotics classes.
